@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1622900468 source:c:\users\adm\desktop\dick\zadacha\main.cpp
+	<bits/stdc++.h>
+	"plant.h"
+	"plantation.h"
+
+1622894039 c:\users\adm\desktop\dick\zadacha\plant.h
+	<iostream>
+
+1622900926 source:c:\users\adm\desktop\dick\zadacha\plantation.cpp
+	<bits/stdc++.h>
+	"plant.h"
+	"plantation.h"
+
+1622894078 source:c:\users\adm\desktop\dick\zadacha\plant.cpp
+	<bits/stdc++.h>
+	"plant.h"
+
+1622890835 c:\users\adm\desktop\dick\zadacha\plantation.h
+	<iostream>
+
